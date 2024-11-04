@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hey, I'm Moisés Ceñera Fernández  </h1>
 <h3 align="center">Red Team Specialist | Offensive Security Enthusiast</h3></br>
-<h3 align="center">🔍 **Red Team** | 💻 **Pentester** | 📜 **Scripting & Automation** | 🛡️ **Offensive Security**</h3></br>
+<h3 align="center">🔍 Red Team | 💻 Pentester | 📜 Scripting & Automation | 🛡️ Offensive Security</h3></br>
 
 ---
 
