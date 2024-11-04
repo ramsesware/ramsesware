@@ -4,6 +4,7 @@
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesware&layout=compact&theme=radical)
 
+![GIF divertido](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
 
 <!--
 **ramsesware/ramsesware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
