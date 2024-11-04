@@ -30,10 +30,6 @@ A quick view of my go-to tools for offensive security:
 - **Scripting & Automation**: Python, Bash, PowerShell
 
 ---
-  
-> *"Security is not a product, but a process."*
-
----
 
 ### 🤝 Let's Connect
 If you're interested in collaboration or have ideas to improve offensive security tools, feel free to reach out. I'm always open to new connections!
@@ -47,3 +43,7 @@ If you're interested in collaboration or have ideas to improve offensive securit
 <div align="center">
   <img src="https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg" alt="GitHub Contribution Graph" />
 </div>
+
+---
+  
+> *"Attack is the secret of defense; defense is the planning of an attack.' 📖⚔️ -Sun Tzu, The Art of War "*
