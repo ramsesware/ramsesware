@@ -35,11 +35,15 @@ A quick view of my go-to tools for offensive security:
 ### 🤝 Let's Connect
 If you're interested in collaboration or have ideas to improve offensive security tools, feel free to reach out. I'm always open to new connections!
 
+---
+
 ### 📫 Reach Me At:
 - <a href="https://www.linkedin.com/in/moises-ceñera-a6bb62295" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
 - **[Email]** moisescenera@hotmail.es
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ramsesware&color=red)
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg" alt="GitHub Contribution Graph" />
