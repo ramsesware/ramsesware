@@ -6,6 +6,12 @@
 
 ![GIF divertido](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
 
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=ramsesware&theme=monokai)
+
+![Contador de visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ramsesware/&title=Visitas)
+
+![Snake animation](https://github.com/ramsesware/ramsesware/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **ramsesware/ramsesware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
