@@ -1,28 +1,43 @@
-## Hi there 👋 I'm Moisés Ceñera Fernández
+## 👋 Hey, I'm Moisés Ceñera Fernández — Red Team Specialist & Offensive Security Enthusiast
+🔍 **Red Team** | 💻 **Pentester** | 📜 **Scripting & Automation** | 🛡️ **Offensive Security**
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=ramsesware&show_icons=true&theme=radical)
+I am a cybersecurity enthusiast with a strong focus on Red Team operations, particularly skilled in scripting and penetration testing. I’m passionate about simulating cyber threats to test and strengthen security defenses, using custom scripts to automate and enhance offensive processes. With a foundation in ethical hacking, I focus on improving my skills in exploitation, reconnaissance, and persistence to build proactive and strong security strategies.
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesware&layout=compact&theme=radical)
+---
 
-![GIF divertido](https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif)
+### 🔧 Technical Skills
+- **Languages**: ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Bash](https://img.shields.io/badge/-Bash-000?style=flat&logo=gnu-bash) ![PowerShell](https://img.shields.io/badge/-PowerShell-000?style=flat&logo=powershell)
+- **Systems**: Windows & Linux Internals
 
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=ramsesware&theme=monokai)
+---
 
-![Contador de visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ramsesware/&title=Visitas)
+### ⚔️ Featured Projects
+- [**Red Team Toolkit**](https://github.com/ramsesware/H4CK1NG_T00L): Custom scripts and tools for offensive testing.
 
-![Snake animation](https://github.com/ramsesware/ramsesware/blob/output/github-contribution-grid-snake.svg)
+---
 
-<!--
-**ramsesware/ramsesware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📈 GitHub Stats
+![Ramses GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramsesware&show_icons=true&theme=dark&hide_border=true&icon_color=red)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesware&layout=compact&theme=dark&hide_border=true)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👀 Security Tools Arsenal
+A quick view of my go-to tools for offensive security:
+
+- **Scripting & Automation**: Python, Bash, PowerShell
+
+---
+  
+> *"Security is not a product, but a process."*
+
+---
+
+### 🤝 Let's Connect
+If you're interested in collaboration or have ideas to improve offensive security tools, feel free to reach out. I'm always open to new connections!
+
+### 📫 Reach Me At:
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/moises-ceñera-a6bb62295)
+- **Email**: moisescenera@hotmail.es
+
+![Profile Views](https://komarev.com/ghpvc/?username=ramsesware&color=red)
