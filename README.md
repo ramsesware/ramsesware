@@ -17,9 +17,12 @@ I am a cybersecurity enthusiast with a strong focus on Red Team operations, part
 ---
 
 ### 📈 GitHub Stats
-![Ramses GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramsesware&show_icons=true&theme=dark&hide_border=true&icon_color=red)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesware&layout=compact&theme=dark&hide_border=true)
-
+<div align="center">
+    ![Ramses GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramsesware&show_icons=true&theme=dark&hide_border=true&icon_color=red)
+</div>
+<div align="center">
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesware&layout=compact&theme=dark&hide_border=true)
+</div>
 ---
 
 ### 👀 Security Tools Arsenal
@@ -37,7 +40,12 @@ A quick view of my go-to tools for offensive security:
 If you're interested in collaboration or have ideas to improve offensive security tools, feel free to reach out. I'm always open to new connections!
 
 ### 📫 Reach Me At:
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/moises-ceñera-a6bb62295)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/moises-ceñera-a6bb62295" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+[LinkedIn Profile]</a>
 - **Email**: moisescenera@hotmail.es
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ramsesware&color=red)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg" alt="GitHub Contribution Graph" />
+</div>
