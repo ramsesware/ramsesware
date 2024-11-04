@@ -22,7 +22,6 @@ I am a cybersecurity enthusiast with a strong focus on Red Team operations, part
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramsesware&theme=radical&hide_border=true" alt="GitHub Streak"/></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesware&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
----
 
 ### 👀 Security Tools Arsenal
 A quick view of my go-to tools for offensive security:
