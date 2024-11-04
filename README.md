@@ -19,7 +19,7 @@ I am a cybersecurity enthusiast with a strong focus on Red Team operations, part
 ### 📈 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ramsesware&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="ramsesware GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramsesware&theme=radical&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramsesware&theme=radical&hide_border=true" alt="GitHub Streak"/></br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsesware&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
 </div>
 ---
