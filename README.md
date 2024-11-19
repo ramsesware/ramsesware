@@ -16,7 +16,7 @@ I am a cybersecurity enthusiast with a strong focus on Red Team operations, part
 
 ### ⚔️ Featured Projects
 - [**H4CK1NG_T00L**](https://github.com/ramsesware/H4CK1NG_T00L): Custom scripts and tools for offensive testing.
-- [**OFFICE_TOOL**](https://github.com/ramsesware/OFFICE_TOOL): Custom scripts and tools for office automation.
+- [**OFFICE_TOOLS**](https://github.com/ramsesware/OFFICE_TOOLS): Custom scripts and tools for office automation.
 
 ---
 
